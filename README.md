@@ -1,6 +1,6 @@
 # SSIAI_VectorSpaces
 
-Official code for [https://arxiv.org/abs/2402.00261](Understanding Neural Network Systems for Image Analysis using Vector Spaces and Inverse Maps):
+Official code for <a href="https://arxiv.org/abs/2402.00261">Understanding Neural Network Systems for Image Analysis using Vector Spaces and Inverse Maps</a>:
 
 In this paper, we introduce techniques from Linear Algebra to model neural network layers as maps between signal spaces. First, we demonstrate how signal spaces can be used to visualize weight spaces and convolutional layer kernels. We also demonstrate how residual vector spaces can be used to further visualize information lost at each layer. Second, we study invertible networks using vector spaces for computing input images that yield specific outputs. We demonstrate our approach on two invertible networks and ResNet18.
 
